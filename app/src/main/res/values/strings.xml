@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TaskForStageTwo</string>
+    <string name="edit_the_details">EDIT THE DETAILS</string>
+    <string name="personal_bio">Personal Bio</string>
+    <string name="github_handle">GitHub Handle</string>
+    <string name="stack_name">Stack Name</string>
+    <string name="name">Name</string>
+    <string name="save">SAVE</string>
+    <string name="enter_your_personal_biography">Enter your personal biography</string>
+    <string name="your_personal_bio">Your Personal Bio</string>
+    <string name="enter_your_github_handle">Enter your GitHub handle</string>
+    <string name="your_github_handle">Your GitHub Handle</string>
+    <string name="enter_your_slack_name">Enter your Slack Name</string>
+    <string name="your_slack_name">Your Slack Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="your_name">Your Name</string>
+</resources>
